@@ -24,7 +24,7 @@ olá, me chamo Paulina.
 
 <img align="center" alt="cosmopaulina-HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
-<img align="center" alt="Rafa-CSS" height="30" width="48" <img align="center" alt="cosmopaulina-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<img align="center" alt="cosmopaulina-CSS" height="30" width="48" <img align="center" alt="cosmopaulina-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
 <img align="center" alt="cosmopaulina-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 
