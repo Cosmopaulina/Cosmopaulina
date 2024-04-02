@@ -35,7 +35,9 @@ olá, me chamo Paulina.
 ### Me segue nas redes a baixo:
  
 <div> 
- <a href="https://instagram.com/cosmo_paula_" target="blank"><img src="https://img.shields.io/badge/-Instagram-X23E4405F?style-for-the-badgeslogo-instagram&logoColor-white"target- blank"></a>
- <a href="https://img.shiedls.io/badge/Gmail-D14836?style=for-the-badge
-&logo=gmailpaulinadossantos92@gmail.com&logoColor=white
+ <a href="https://instagram.com/cosmo_paula_" target="blank"><img src="https://img.shields.io/badge/-Instagram-X23E4405F?style-for-the-badgeslogo-instagram&logoColor-white"target- blank"
+</a>
+ <a href = "https://img.shiedls.io/badge/Gmailpaulinadossantos92@gmail.com-D14836?style=for-the-badge
+&logo=gmailpaulinadossantos92@gmail.com&logoColor=whit" target=></a>
+</div>
   
