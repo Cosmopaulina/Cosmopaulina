@@ -17,7 +17,6 @@
 ### Me segue nas redes abaixo!
  
 <div> 
-  <a href=""target="_blank"><img src="https://img.shields.io/badge/-Instagram cosmo_paula_-%23E4405F?style=for-the-badge&logo=instagram cosmo_paula_&logoColor=white" target="_blank"></a>
- <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href=""><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmailpaulinadossantos92@gmail com&logoColor=white" target="_blank"></a>
+  <a href=""target="_blank"><img src="https://img.shields.io/badge/-Instagramcosmo_paula_-%23E4405F?style=for-the-badge&logo=instagram cosmo_paula_&logoColor=white" target="_blank"></a>
 
+ [!Instagram](https://img.shields.io/badgelogo-instagram&logoColor=white)](https://instagram.com/cosmo_paula_)
