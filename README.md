@@ -35,5 +35,7 @@ olá, me chamo Paulina.
 ### Me segue no Instagram abaixo!
  
 <div> 
- <a href="https://instagram.com/cosmo_paula_" target="blank"><img src="https://img.shields.io/badge/-Instagram-X23E4405F?style-for-the-badgeslogo-instagram&logoColor-white"target- blank"></a>
-</div>
+ <a href="https://instagram.com/cosmo_paula_" target="blank"><img src="https://img.shields.io/badge/-Instagram-X23E4405F?style-for-the-badgeslogo-instagram&logoColor-white"target- blank"
+  <div> 
+   <a https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+  </div>
