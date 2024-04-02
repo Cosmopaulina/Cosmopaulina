@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao meu primeiro repositório 😁
+olá, me chamo Paulina.
 
  <div>
    <a href="https://github.com/Cosmopaulina">
@@ -14,9 +14,8 @@
  
 <br>
  
-### Me segue nas redes abaixo!
+### Me segue no Instagram abaixo!
  
 <div> 
-  <a href=""target="_blank"><img src="https://img.shields.io/badge/-Instagramcosmo_paula_-%23E4405F?style=for-the-badge&logo=instagram cosmo_paula_&logoColor=white" target="_blank"></a>
-
- [!Instagram](https://img.shields.io/badgelogo-instagram&logoColor=white)](https://instagram.com/cosmo_paula_)
+ <a href="https://instagram.com/cosmo_paula_" target="blank"><img src="https://img.shields.io/badge/-Instagram-X23E4405F?style-for-the-badgeslogo-instagram&logoColor-white"target- blank"></a>
+</div>
